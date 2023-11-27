@@ -21,4 +21,4 @@ ethers-contract = { version = "2.0", default-features = false }
 
 # revm
 revm = { git = "https://github.com/bluealloy/revm/", features = ["ethersdb"] }
-revm-primitives = { git = "https://github.com/bluealloy/revm/" }
+revm-primitives = { git = "https://github.com/bluealloy/revm/" } 
